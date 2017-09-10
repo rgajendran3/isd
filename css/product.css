@@ -1,0 +1,53 @@
+
+tr, td
+{
+	border:solid 1px #4D4D4D;
+}
+
+th
+{
+	width:150px;
+}
+
+img
+{
+	width:150px;
+}
+
+.table_center
+{
+	text-align:center;
+}
+
+.table_padding
+{
+	padding-left:10px;
+}
+
+table
+{	
+	padding:0px;
+	margin-top:-75px;
+}
+
+fieldset
+{
+	width:250px;
+	height:auto;
+}
+
+/*------------------------------------------------------*/
+.amendp td, .amendp tr
+{
+	border:0px;
+}
+
+#a_table
+{
+	margin-top:0px;
+}
+
+#managetable td, #managetable tr
+{
+	border:1px solid #B2B2B2;
+}

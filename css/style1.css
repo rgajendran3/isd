@@ -1,0 +1,35 @@
+body
+{
+	margin:0px;
+	width:auto;
+	background-color:#F0F0F0;
+}
+#login 
+{
+	width:300px;
+	height:300px;
+	margin:auto;
+	margin-top:60px;
+	border:solid #C2C2C2 1px;
+	border-radius:1em;
+	padding-left:20px;
+}
+
+#login form
+{
+	margin-top:50px;
+	width:300px;
+	margin:auto;
+	
+}
+
+#inner_signin
+{
+	margin:0px auto;
+}
+
+div#inner_signin
+{
+	width:250px;
+	margin:auto;
+}

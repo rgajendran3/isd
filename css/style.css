@@ -1,0 +1,311 @@
+body {
+	padding-bottom: 40px;
+    padding-top: 60px;
+    background: url('../images/bg5.jpg');
+    background-size:100%;
+    background-attachment:fixed;
+}
+
+.thumbnails
+{
+	float:left;
+	width:290px;
+	height:450px;
+	margin:auto;
+}
+
+.thumbnail img
+{
+	width:260px;
+	height:300px;	
+}
+
+.thumbnail
+{
+	margin-left:-15px;
+}
+
+.caption
+{
+	margin:auto;
+	text-align:center;
+	background-color:white;
+}
+
+.span5 img
+{
+	width:450px;
+	height:auto;
+}
+
+.well ul a:hover
+{
+	color:white;
+	background-color:#1975FF;
+}
+
+.hero-unit
+{
+		  color:black;
+		  border:solid 1px white;
+}
+/*---------------------Register-------------------------*/
+table
+{
+	margin:auto;
+}
+
+td
+{
+	margin-left:30px;
+	background-color:white;
+}
+
+.register_h1
+{
+	margin:auto;
+}
+
+.formed
+{
+	background-color:maroon;
+	border:solid #E6E6E6 1px;
+	padding:30px;
+	border-radius:0.1em;
+}
+
+input.btn-success
+{
+	width:150px;
+	height:30px;
+	border-radius:0.1em;
+	margin-left:35px;
+}
+
+.tbody
+{
+	margin:0px auto;
+	margin-top:50px;
+}
+
+#r_error
+{
+	width:830px;
+	height:80px;
+	margin-left:50px;
+	float:left;
+}
+
+#r_error_text
+{
+	width:600px;
+	margin:auto;
+	color:#0044CC;
+}
+
+#session_user
+{
+	list-style:none;
+}
+
+/*----------------------------------------------------------------------*/
+#inner_signin
+{
+	width:auto;
+	margin-right:10px;	
+}
+
+#signin input
+{
+	width:100%;
+}
+
+/*----------------------user profile---------------------------------*/
+.user_profile
+{
+	margin-top:0px;
+	margin-left:0px;
+}
+
+#user_wrapper
+{
+	margin:auto;
+}
+
+table.user_profile td
+{
+	padding:10px 0px 10px 10px;	
+} 
+
+table.user_profile td.user_heading
+{
+	background-color:#E6E6E6;
+}
+
+/*-----------------------------table -----------------------------------*/
+#managetable th
+{
+	background-color:#E6E6E6;
+}
+
+
+
+
+
+/*------------------------------cart-----------------------------------*/
+div.dropdown-menu.well
+{
+	width:420px;
+}
+
+div.dropdown-menu.well th
+{
+	border:solid 1px #B2B2B2;
+}
+
+div.dropdown-menu.well #name
+{
+	width:130px;
+	text-align:left;
+}
+
+div.dropdown-menu.well #x
+{
+	width:30px;
+}
+
+div.dropdown-menu.well #value
+{
+	width:30px;
+}
+
+div.dropdown-menu.well #atsymbol
+{
+	width:30px;
+}
+
+div.dropdown-menu.well #pound
+{
+	width:70px;
+	text-align:left;
+}
+
+div.dropdown-menu.well #equal
+{
+	width:30px;
+}
+
+div.dropdown-menu.well #total
+{
+	text-align:left;
+}
+
+/*----------------------------------------------------------------------------*/
+#totalamount
+{
+	font-size:15px;
+	margin-left:220px;
+}
+
+#basket
+{
+	float:right;
+	border-radius: 0.9em;
+}
+#checkout
+{
+	margin-left:220px;
+}
+
+input#checkout, #continue_btn
+{
+	border-radius: 0.9em;
+}
+
+
+/*--------------------------------------------------------------------------*/
+#cartdisplay img
+{
+	width:50px;
+}
+
+/*--------------------------------------------------------------------------*/
+#paypal_checkout_div
+{
+	margin-top:150px;
+	margin-left:-180px;
+	float:left;
+
+}
+
+#paypal_checkout_div #paypal_checkout_btn
+{
+	border-radius: 1em;
+}
+
+/*------------------------------------------------------------------------*/
+#purchase_register table
+{
+	margin-top:30px;
+	float:left;
+}
+
+#purchase_view th
+{
+	text-align:center;
+}
+
+#purchase_href td
+{
+	text-align:center;
+}
+
+/*------------------------------------------------------------------------*/
+#user_subject
+{
+	float:left;
+}
+
+#message_box
+{
+	float:left;
+	width:100%;
+	height:200px;
+}
+
+#sender_name
+{
+	float:left;
+}
+
+.amendp td
+{
+	background-color:inherit;
+}
+
+.amendp td label
+{
+	color:white;
+}
+
+#mail_submit
+{
+	height:100%;
+}
+/*-----------------------view item-----------------------------------*/
+.box
+{
+	background-color:white;
+	border:solid 3px gray;
+}
+
+#commentname:hover
+{
+	background-color:#E6E6E6;
+	border-radius:1em;
+}
+
+#commentname h5, p{
+	margin:10px;
+	
+}
